@@ -2,7 +2,7 @@
 # print(os.getcwd())
 
 
-# Assume words.txt is under session09 folder
+# Assume words.txt is under data folder
 # f = open('data/words.txt')
 # line = f.readline()
 # print(line)
