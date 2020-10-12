@@ -1,5 +1,4 @@
 import sys
-import string
 import random
 
 # global variables
@@ -92,7 +91,7 @@ def shift(t, word):
     return t[1:] + (word,)
 
 
-def main(script, filename='session13/Pride and Prejudice.txt', n=50, order=2):
+def main(script, filename='data/Pride and Prejudice.txt', n=50, order=2):
     try:
         n = int(n)
         order = int(order)
