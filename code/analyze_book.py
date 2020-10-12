@@ -88,7 +88,7 @@ def random_word(hist):
 
 
 def main():
-    hist = process_file('session13/Pride and Prejudice.txt', skip_header=True)
+    hist = process_file('data/Pride and Prejudice.txt', skip_header=True)
     # print(hist)
     # print('Total number of words:', total_words(hist))
     # print('Number of different words:', different_words(hist))
