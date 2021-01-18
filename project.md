@@ -1,9 +1,9 @@
-# MIS3690 Problem Solving & Software Design  - Term Project - 2021 Spring
+# MIS3640 Problem Solving & Software Design  - Term Project - 2021 Spring
 
 
 ## 1. Overview
 
-From now until the end of the semester you will be working with a team of students on a group software project. The project will culminate on **Thursday 11/19** in demo session. 
+From now until the end of the semester you will be working with a team of students on a group software project. The project will culminate on **Thursday 4/15** in demo session. 
 
 ---
 
