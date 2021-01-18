@@ -1,4 +1,4 @@
-# MIS3640 Problem Solving and Software Design - 2020 Fall - Syllabus
+# MIS3640 Problem Solving and Software Design - 2021 Spring - Syllabus
 
 
 ## Datetime and Address
