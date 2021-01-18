@@ -23,16 +23,18 @@ From now until the end of the semester you will be working with a team of studen
 - More project ideas:
   - [13 Project Ideas for Intermediate Python Developers](https://realpython.com/intermediate-python-project-ideas/).
   - [Project Based Learning (Python)](https://github.com/tuvtran/project-based-learning#python)
+  - [What to automate](https://www.reddit.com/r/learnpython/comments/k5k1h0/what_do_you_automate_with_python_at_home/)
+  - [Python projects for beginners](https://beginnerpythonprojects.com/)
 
 ---
 
 ## 3. Teaming
 ### Requirements
-- You are required to work on a team of 2-3 students. You can also choose to work individually, if you experience difficulties working with others remotely.
+- You are required to work on a team of 2-3 students. You can also choose to work individually if you experience difficulties working with others remotely.
 - **One** team member needs to create a new public GitHub repository for team project. **Others fork** this repository.
 - Team needs to create a **Slack channel** for project communication in Slack class Workspace. 
-- ~~The team needs to **schedule a time** to meet with professor.~~ 
-- Team need to briefly talk to professor about potential project ideas via email or Slack.
+- ~~Team needs to **schedule a time** to meet with professor.~~ 
+- Team needs to briefly talk to professor about potential project ideas via email or Slack.
   
 ### Team Formation Advice
 - **Try to work with people because you share a common interest** rather than simply working with your friends (we will do a structured activity to help with this aspect of team formation).
@@ -45,7 +47,7 @@ From now until the end of the semester you will be working with a team of studen
 ## 4. Project Activities / Deliverables 
 
 ### 4.1 Project Proposal
-- Due: 9/24
+- Due: 2/18
 - The project proposal is worth **10%** of the project grade.
 
 ~~You should come to class with a document that describes the main idea of your project. We will have about 10 minutes to meet with each team, so we ask that you come to the meeting without your laptop, but with a printed version of your document. You should designate one of the two team members to take notes.~~ 
@@ -122,7 +124,7 @@ Your final project website may be implemented using whatever platform you like. 
 
 
 ### 4.6 Code Submission
-- Due: Monday, 11/30
+- Due: Monday, 4/26
 - Project code is worth 35% of the project grade (see code rubric on the Code Grading Rubric)
 
 Project code must be submitted via GitHub. You must include a **README** describing how to run your code, including any required dependencies (e.g. libraries to install) and any input files. [Here](https://github.com/kautukkundan/Awesome-Profile-README-templates) is a collection of awesome README templates to get some ideas.
@@ -133,9 +135,9 @@ Make sure that your code gives appropriate attribution to external resources use
 
 
 ### 4.7 Final Demo / Presentation Session
-- Date: Thursday, 11/19
+- Date: Thursday, 4/15
   
 We will meet for a demo session of your final projects. This session is for everyone to share what they've created, and will not be evaluated.
 
 ---
-*updated: 9/3/2020*
+*updated: 1/17/2021*
