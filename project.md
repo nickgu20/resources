@@ -1,4 +1,4 @@
-# MIS3690 Problem Solving & Software Design  - Term Project - 2020 Fall
+# MIS3690 Problem Solving & Software Design  - Term Project - 2021 Spring
 
 
 ## 1. Overview
