@@ -1,0 +1,67 @@
+get stores API
+    - locations near Babson college
+        - Chestnut Hill MA, in Chestnut Hill Square
+        - Wegmans Natick, in Natick Mall
+        - WestWood, MA, in University Station
+Get product API
+    - Product Aisle locations
+        - get location for a specific product by SKU for a store https://dev.wegmans.io/api-details#api=products-2018-10-18&operation=get-location
+    - product information
+        - get all product information https://dev.wegmans.io/api-details#api=products-2018-10-18&operation=get-products
+        - get specific product information (by item number) https://dev.wegmans.io/api-details#api=products-2018-10-18&operation=get-product
+
+    - get availability for a specific product for a specific store https://dev.wegmans.io/api-details#api=products-2018-10-18&operation=get-availability
+
+
+1. use Stores API to get the 3 locations near Babson college
+    - Chestnut Hill MA, in Chestnut Hill Square
+    - Wegmans Natick, in Natick Mall
+    - WestWood, MA, in University Station
+2. Use Product API to get product categories which users can select from
+    - bread, soft drinks, cheese, vegetables
+3. Use product API to get a list of products in each category
+4. Use product API to check Availability of the specific product ( might leave out becuase data is from 2018)
+5. Use Product API to that gives a location within the store (an aisle) for the product someone is looking for
+6. use Flask to communicate information to users
+
+
+Python code
+    1. use Stores API to get the 3 locations near Babson college
+        1.1 Chestnut Hill MA, in Chestnut Hill Square
+        1.2 Wegmans Natick, in Natick Mall
+        1.3 WestWood, MA, in University Station
+    2. Use Product API to get product categories which users can select from
+        2.1 read in json file of products (might just be product categories)
+        2.2 filter through json file to get bread, soft drinks, vegetables
+        2.3 return a list that read [bread, soft drinks, vegetables]
+    3. Use product API to get a list of products in each category
+        3.1 read in json file of products in a specific category
+        3.2 get product names
+        3.3 get product price
+        3.4 print a list of each product with its price
+    4. Use product API to check Availability of the specific product ( might leave out becuase data is from 2018)
+        4.1 read in json file
+        4.2 get product availability
+        4.3 print out product Availability
+    5. Use Product API to that gives a location within the store (an aisle) for the product someone is looking for
+        5.1 read json file
+        5.2 get product location within store (asile)
+        5.3 print out product location
+Flask app
+    1. display the 3 stores for for users to click operation
+        1.1 show location
+        1.2 show distance from Babson College
+        1.3 have a link attached to location that takes them to product categories
+    2. display a list of product categories
+        2.1 bread, soft drinks, vegetables
+        2.2 have a picture that corresponds to category
+        2.3 have a link that takes the use to the list of products
+    3. display a list of products in each category
+        3.1 each product in the list needs to have its own row in a table
+        3.2 display product names
+        3.3 display product price
+    4.display product
+        4.1 display product names
+        4.1 display product price
+        4.1 display weather product is available or not if possible 
+        4.1 display location of product in the store
