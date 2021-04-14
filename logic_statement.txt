@@ -20,7 +20,7 @@ Get product API
 2. Use Product API to get product categories which users can select from
     - bread, soft drinks, cheese, vegetables
 3. Use product API to get a list of products in each category
-4. Use product API to check Availability of the specific product ( might leave out becuase data is from 2018)
+4. Use product API to check Availability of the specific product ( might leave out because data is from 2018)
 5. Use Product API to that gives a location within the store (an aisle) for the product someone is looking for
 6. use Flask to communicate information to users
 
@@ -40,7 +40,7 @@ Python code
         3.2 get product names
         3.3 get product price
         3.4 print a list of each product with its price
-    4. Use product API to check Availability of the specific product ( might leave out becuase data is from 2018)
+    4. Use product API to check Availability of the specific product ( might leave out because data is from 2018)
         4.1 read in json file
         4.2 get product availability
         4.3 print out product Availability
@@ -66,3 +66,11 @@ Flask app
         4.1 display product price
         4.1 display weather product is available or not if possible 
         4.1 display location of product in the store
+
+
+use jinja template: https://jinja.palletsprojects.com/en/2.11.x/templates/
+
+https://realpython.com/primer-on-jinja-templating/
+
+python anywhere: to host app
+meeting before deadline; so that everyone can use the app
